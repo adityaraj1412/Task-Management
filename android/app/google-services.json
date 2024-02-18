@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "269584881006",
+    "project_id": "taskyy-a5b0c",
+    "storage_bucket": "taskyy-a5b0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269584881006:android:5675ea6ce64bff16b29d7f",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269584881006-eubuleu388dj1gjm9oobvildh38q7d4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU81y1ZCFBLp9TiCekqmteoP1t9BFqQtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269584881006-eubuleu388dj1gjm9oobvildh38q7d4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:269584881006:android:f6ca005886b9668db29d7f",
+        "android_client_info": {
+          "package_name": "com.example.taskmanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "269584881006-eubuleu388dj1gjm9oobvildh38q7d4f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCU81y1ZCFBLp9TiCekqmteoP1t9BFqQtA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "269584881006-eubuleu388dj1gjm9oobvildh38q7d4f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
